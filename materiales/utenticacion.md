@@ -21,7 +21,7 @@
     
 > npm
 
-    npm intall
+    npm install
     npm run dev    
     
 > ejecutar migraciones
